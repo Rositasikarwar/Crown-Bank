@@ -87,9 +87,3 @@ For inquiries or support, please contact [yourname@example.com](mailto:yourname@
 ---
 
 Thank you for using Crown Bank! We hope it provides a seamless and secure banking experience. 💼🏦
-
----
-
-Feel free to customize this README further based on additional details or specific functionalities of your project.
-
-Link to the website - https://crown-bank-grip.netlify.app/
